@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+
+webrick:
+  headers:
+    My-Header: Keanorama_Software
