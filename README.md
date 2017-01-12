@@ -8,3 +8,5 @@ IO - (Interpreted Objects) an object oriented interpreted (scripting) language w
 Kilgore - liguistic expression parsing and contextual matching. Currently porting to Python.
 
 TextGen - generate grammatical phrases from language database. Currently porting to Python.
+
+Contact at: keanorama1@gmail.com
