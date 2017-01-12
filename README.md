@@ -1,5 +1,5 @@
 # Current research:
-TNN - Time based (sequence/temporal) Neural Network software. Includes java source and bash util scripts.
+TNN - Time based (sequence/temporal) Neural Network software. Includes java source and bash util scripts. Uses tanh threshold function.
 
 Freex - minimal linux distro (SUSE based). Name is homage to Linus original linux free(uni)x distro.
 
