@@ -1,5 +1,5 @@
 # Current research:
-TNN - Time based (sequence/temporal) Neural Network software. Includes java source and bash util scripts. Uses tanh threshold function.
+TNN - Time based (sequence/temporal) Neural Network. Uses tanh threshold function. Includes java source, bash util scripts, WeightAvg result interpolation with ability to run as parallel processes across multiple linux nodes. 
 
 Freex - minimal linux distro (SUSE based). Name is homage to Linus original linux free(uni)x distro.
 
@@ -7,6 +7,6 @@ IO - (Interpreted Objects) an object oriented interpreted (scripting) language w
 
 Kilgore - liguistic expression parsing and contextual matching. Currently porting to Python.
 
-TextGen - generate grammatical phrases from language database. Currently porting to Python.
+TextGen - generatation of grammatical phrases from language database. Currently porting to Python.
 
 Contact at: keanorama1@gmail.com
