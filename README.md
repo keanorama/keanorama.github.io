@@ -7,6 +7,6 @@ Kilgore - computational liguistics, n-gram expression parsing and contextual mat
 
 TextGen - generatation of grammatical phrases from language elements database. Currently porting to Python.
 
-IO - (Interpreted Objects) an object oriented interpreted (scripting) language with the following features: K&R style syntax, all objects (pure, no primitives), package is expressed in file system path, built in comprehensive reflection (getClass(), getMethod()...), runs from command line (#!/bin/io). Under development.
+IO - (Interpreted Objects) an object oriented interpreted (scripting) language, designed with the following features: K&R style syntax, all objects (pure, no primitives), package is expressed in file system path, built in comprehensive reflection (getClass(), getMethod()...), runs from command line (#!/bin/io). Under development.
 
 Contact at: keanorama1@gmail.com
